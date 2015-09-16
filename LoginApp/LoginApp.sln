@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp", "LoginApp\LoginApp.csproj", "{A6AE5565-DA65-4359-BCD5-18D368265146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp.Droid", "Droid\LoginApp.Droid.csproj", "{4D7C13EF-93F5-49F6-9C56-F23D29D6B143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp.UITests", "UITests\LoginApp.UITests.csproj", "{98BC7CFA-EE20-4E4C-97F3-245997A05A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7C13EF-93F5-49F6-9C56-F23D29D6B143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7C13EF-93F5-49F6-9C56-F23D29D6B143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7C13EF-93F5-49F6-9C56-F23D29D6B143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7C13EF-93F5-49F6-9C56-F23D29D6B143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BC7CFA-EE20-4E4C-97F3-245997A05A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BC7CFA-EE20-4E4C-97F3-245997A05A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BC7CFA-EE20-4E4C-97F3-245997A05A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BC7CFA-EE20-4E4C-97F3-245997A05A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6AE5565-DA65-4359-BCD5-18D368265146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AE5565-DA65-4359-BCD5-18D368265146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AE5565-DA65-4359-BCD5-18D368265146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AE5565-DA65-4359-BCD5-18D368265146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

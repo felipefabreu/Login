@@ -1,0 +1,9 @@
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\LoginApp.UITests.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\LoginApp.UITests.pdb
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\nunit.framework.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\nunit.framework.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\obj\Release\LoginApp.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\obj\Release\LoginApp.UITests.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\UITests\obj\Release\LoginApp.UITests.pdb

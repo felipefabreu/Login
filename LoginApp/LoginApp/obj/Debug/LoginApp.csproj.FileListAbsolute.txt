@@ -1,0 +1,13 @@
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Debug\SQLite.Net.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\MainPage.xaml.g.cs
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\Loggedin.xaml.g.cs
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Debug\Create.xaml.g.cs

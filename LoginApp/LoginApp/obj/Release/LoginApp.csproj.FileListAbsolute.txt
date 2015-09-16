@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\LoginApp.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\LoginApp.pdb
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\LoginApp.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\LoginApp.pdb
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\MainPage.xaml.g.cs
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\Loggedin.xaml.g.cs
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\bin\Release\SQLite.Net.dll
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\Create.xaml.g.cs
+C:\Users\Felipe\Documents\Projects\LoginApp\LoginApp\obj\Release\RegisterPage.xaml.g.cs
